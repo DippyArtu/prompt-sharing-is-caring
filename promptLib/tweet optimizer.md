@@ -2,15 +2,15 @@
 
 ## Contents:
 
-- [Ranking algo docs](#Ranking algo docs)
-- [Thread prompt](#Thread prompt)
+- [Ranking algo docs](#Ranking-algo-docs)
+- [Thread prompt](#Thread-prompt)
 	- [System](#System)
 	- [Prompt](#Prompt)
-	- [Iteration prompt](#Iteration prompt)
-- [Tweet prompt](#Tweet prompt)
+	- [Iteration prompt](#Iteration-prompt)
+- [Tweet prompt](#Tweet-prompt)
 	- [System](#System)
 	- [Prompt](#Prompt)
-	- [Iteration prompt](#Iteration prompt)
+	- [Iteration prompt](#Iteration-prompt)
 
 ---
 
